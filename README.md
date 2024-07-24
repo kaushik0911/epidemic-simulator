@@ -1,6 +1,6 @@
 # Welcome to the Epidemic Simulator App
 
-This application is a simple program that simulates disease spread within the community according to the following properties,
+This application is a simple program that simulates disease spread across the community according to the following properties,
 
 1. Population size(number of humans).
 2. Percentage (0-100) of the population to initially infect.
