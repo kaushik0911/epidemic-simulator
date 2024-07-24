@@ -1,6 +1,6 @@
-# Welcome to Epidemic Simulator App
+# Welcome to the Epidemic Simulator App
 
-This application is a simple program that simulate disease spread within the community according to following properties,
+This application is a simple program that simulates disease spread within the community according to the following properties,
 
 1. Population size(number of humans).
 2. Percentage (0-100) of the population to initially infect.
@@ -13,7 +13,7 @@ Run the `main.py` file to see the simulation in a window.
 ```
 python main.py
 ```
-Once you hit enter you may ask these quetion before start the simulation. 
+Once you hit enter, you must enter values for these questions before starting the simulation. 
 ```
 Enter the population size(number of humans): 1000
 Rounding population size to 1024for visual purposes.
