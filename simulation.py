@@ -4,7 +4,7 @@ class Simulation():
   def __init__(self):
     """init attributes"""
     self.day_number = 1
-    self.population_size = int(input("\tEnter the population size(number of humens): "))
+    self.population_size = int(input("\tEnter the population size(number of humans): "))
 
     root = math.sqrt(self.population_size)
 
