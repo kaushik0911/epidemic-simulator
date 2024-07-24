@@ -30,4 +30,5 @@ Total People Infected: 31 / 1024
 Total Deaths: 0 / 1024
 Press Enter to begin simulation.
 ```
+## Sample runner
 ![](images/simulation.gif)
